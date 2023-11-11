@@ -1,0 +1,6 @@
+[submodule "Advent-of-Code-Python"]
+	path = Advent-of-Code-Python
+	url = https://github.com/JamieJamesJamie/Advent-of-Code-Python.git
+[submodule "Advent-of-Code-Dotnet"]
+	path = Advent-of-Code-Dotnet
+	url = https://github.com/JamieJamesJamie/Advent-of-Code-Dotnet.git
