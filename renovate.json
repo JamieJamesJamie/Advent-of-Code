@@ -1,5 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["local>JamieJamesJamie/renovate-config"],
-  "git-submodules": { "automerge": true }
+  "git-submodules": { "automerge": true, "ignoreTests": true }
 }
