@@ -4,3 +4,6 @@
 [submodule "Advent-of-Code-Dotnet"]
 	path = Advent-of-Code-Dotnet
 	url = https://github.com/JamieJamesJamie/Advent-of-Code-Dotnet.git
+[submodule "Advent-Of-Code-Kotlin"]
+	path = Advent-Of-Code-Kotlin
+	url = https://github.com/JamieJamesJamie/Advent-Of-Code-Kotlin.git
